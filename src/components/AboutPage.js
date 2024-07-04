@@ -72,11 +72,11 @@ const AboutPage = () => {
                     <img src={astronaut} alt="spaceman" />
                 </Spaceman>
                 <Main>
-                    I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+                    Hi, I'm Siraj a passionate and skilled full stack developer with 2 years of experience in building and maintaining web applications.
                     <br /> <br />
-                    I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+                    I specializes in developing dynamic, high-performance websites and applications using Php, Laravel , CodeIgniter ,  React, and Next.Js .
                     <br /> <br />
-                    I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+                    I am is dedicated to creating seamless user experiences through his expertise in these technologies.
                 </Main>
 
                 <BigTitle text="ABOUT" top="10%" left="5%" />
